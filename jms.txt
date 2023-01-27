@@ -4,5 +4,5 @@
 
 james-trussy.com	FALSE	/auth/	TRUE	1675698719	captcha	recaptchav3
 james-trussy.com	FALSE	/faucet/verify/	TRUE	1675655174	captcha	recaptchav3
-#HttpOnly_james-trussy.com	FALSE	/	TRUE	1674921112	ci_session	84183075d75cac3d1266e3bceaaecefc50c69b78
-james-trussy.com	FALSE	/	TRUE	1674842185	csrf_cookie_name	7e99116e2a139ef4de33086bf48d7b43
+#HttpOnly_james-trussy.com	FALSE	/	TRUE	1674924099	ci_session	8abd5411b80f3e154b9b00bffabcdce5edce19e8
+james-trussy.com	FALSE	/	TRUE	1674845170	csrf_cookie_name	13802fd77bd00854cfefef2a0dff922f
