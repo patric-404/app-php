@@ -4,5 +4,5 @@
 
 therian.online	FALSE	/auth/	TRUE	1675654201	captcha	recaptchav3
 therian.online	FALSE	/faucet/verify/	TRUE	1675659126	captcha	recaptchav3
-therian.online	FALSE	/	TRUE	1674848340	csrf_cookie_name	eff0a572ca7563d19b9480da241e8242
-#HttpOnly_therian.online	FALSE	/	TRUE	1674848167	ci_session	04rttl5pjm9jbb05gdcir5jb36vsng9e
+therian.online	FALSE	/	TRUE	1674848803	csrf_cookie_name	eff0a572ca7563d19b9480da241e8242
+#HttpOnly_therian.online	FALSE	/	TRUE	1674848503	ci_session	p1b2jtee5ap6bi3gri5471mncvc6mq1b
