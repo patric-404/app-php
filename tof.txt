@@ -5,5 +5,5 @@
 topfaucet.co	FALSE	/	TRUE	1991360298	mode	night
 topfaucet.co	FALSE	/	TRUE	1992404517	_uads	a%3A2%3A%7Bs%3A4%3A%26quot%3Bdate%26quot%3B%3Bi%3A1677130917%3Bs%3A5%3A%26quot%3Buaid_%26quot%3B%3Ba%3A0%3A%7B%7D%7D
 #HttpOnly_topfaucet.co	FALSE	/	TRUE	0	PHPSESSID	4e06cfac36e5da268d26a892dab9c4eb
-topfaucet.co	FALSE	/	FALSE	1678777007	csrf_cookie_name	46c2036352ff95226ffc3cacb4b7c955
-#HttpOnly_topfaucet.co	FALSE	/	FALSE	1678776766	ci_session	12ktc4hegl51s8ja2goj9oc41nt00tfp
+topfaucet.co	FALSE	/	FALSE	1678777933	csrf_cookie_name	4cd248a15f90854fae1c8ce4b88c4392
+#HttpOnly_topfaucet.co	FALSE	/	FALSE	1678777631	ci_session	p40mmap32p4oah83neg57l09igpntv3b
